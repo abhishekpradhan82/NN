@@ -24,4 +24,6 @@ pred = mymodel.predict(x_test)
 
 import numpy as np
 
-np.argmax(pred[0])
+print(np.argmax(pred[0]))
+
+#comments to follow
