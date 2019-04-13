@@ -28,5 +28,4 @@ import numpy as np
 
 print(np.argmax(pred[0]))
 
-#comments to follow 12345
 
