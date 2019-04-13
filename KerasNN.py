@@ -1,5 +1,7 @@
 import tensorflow as tf
 
+#comments
+
 mnist_dataset = tf.keras.datasets.mnist
 
 (x_train,y_train),(x_test,y_test) = mnist_dataset.load_data()
